@@ -39,9 +39,9 @@
 							<desktop5:Verb Id="ContextMenuProj1" Clsid="67E8E06D-80A0-477B-87EC-109DBE5A1289" />
 						</desktop5:ItemType>
 						<!--Show When Files Selected-->
-						<!--<desktop5:ItemType Type="*">
+						<desktop5:ItemType Type="*">
 							<desktop5:Verb Id="ContextMenuProj1" Clsid="67E8E06D-80A0-477B-87EC-109DBE5A1289" />
-						</desktop5:ItemType>-->
+						</desktop5:ItemType>
 					</desktop4:FileExplorerContextMenus>
 				</desktop4:Extension>
 				<com:Extension Category="windows.comServer">
