@@ -1,6 +1,6 @@
 {
     "icon": "\"C:\\Program Files\\Microsoft VS Code\\Code.exe\",0",
     "title": "Code",
-    "cmd":"\"code \"%1\"\"",
+    "cmd":"\"C:\\Program Files\\Microsoft VS Code\\Code.exe\" \"%1\"",
     "name": "Code"
 }
