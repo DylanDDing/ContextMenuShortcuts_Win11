@@ -1,6 +1,6 @@
 {
-    "icon": "\"C:\\Program Files\\Microsoft VS Code\\Code.exe\",0",
-    "title": "Code",
-    "cmd":"\"C:\\Program Files\\Microsoft VS Code\\Code.exe\" \"%1\"",
-    "name": "Code"
+    "icon":"\"D:\\WorkSoftware\\Microsoft VS Code\\Code.exe\",0",
+    "title":"Open with Code",
+    "cmd":"\"D:\\WorkSoftware\\Microsoft VS Code\\Code.exe\" -path \"%1\"",
+    "name":"VSCode"
 }
