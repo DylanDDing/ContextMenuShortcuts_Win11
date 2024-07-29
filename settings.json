@@ -1,6 +1,6 @@
 {
-    "icon":"\"C:\\Program Files\\Everything\\Everything.exe\",0",
-    "title":"搜索Everything",
-    "cmd":"\"C:\\Program Files\\Everything\\Everything.exe\" -path \"%1\"",
-    "name":"Everything",
+    "icon":"\"D:\\WorkSoftware\\Microsoft VS Code\\Code.exe\",0",
+    "title":"Open with Code",
+    "cmd":"\"D:\\WorkSoftware\\Microsoft VS Code\\Code.exe\" -path \"%1\"",
+    "name":"VSCode"
 }
